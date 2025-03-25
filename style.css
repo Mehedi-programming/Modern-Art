@@ -49,6 +49,7 @@ h1{
     background-color: black;
     display: flex;
     justify-content: center;
+    text-align: center;
 }
 .left h1{
     max-width: 360px;
